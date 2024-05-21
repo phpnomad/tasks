@@ -1,6 +1,6 @@
 <?php
 
-namespace PHPNomad\Enums;
+namespace PHPNomad\Tasks\Enums;
 
 use PHPNomad\Enum\Traits\Enum;
 

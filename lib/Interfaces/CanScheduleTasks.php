@@ -1,5 +1,5 @@
 <?php
-namespace PHPNomad\Tasks;
+namespace PHPNomad\Tasks\Interfaces;
 
 interface CanScheduleTasks
 {
