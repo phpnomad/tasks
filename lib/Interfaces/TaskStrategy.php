@@ -13,6 +13,7 @@ interface TaskStrategy
      * Dispatches a task to be handled asynchronously or immediately.
      *
      * @param object $task A task value object
+     * @throws @throws TaskDispatchFailedException
      */
     public function dispatch(object $task): void;
 
